@@ -1,0 +1,6 @@
+{
+  "name": "Spendly",
+  "description": "Modern mobile expense tracker app to track daily spending, visualize analytics, and manage budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

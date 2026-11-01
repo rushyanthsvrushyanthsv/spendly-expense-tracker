@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Main Wallet Card Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M33,38 C33,34.7 35.7,32 39,32 L69,32 C72.3,32 75,34.7 75,38 L75,70 C75,73.3 72.3,76 69,76 L39,76 C35.7,76 33,73.3 33,70 Z" />
+        <!-- Card Notch / Accent Line -->
+        <path
+            android:fillColor="#00685F"
+            android:pathData="M33,46 L75,46 L75,50 L33,50 Z" />
+        <!-- Digital Chip / Security Element -->
+        <path
+            android:fillColor="#89F5E7"
+            android:pathData="M40,56 C40,54.9 40.9,54 42,54 L50,54 C51.1,54 52,54.9 52,56 L52,64 C52,65.1 51.1,66 50,66 L42,66 C40.9,66 40,65.1 40,64 Z" />
+        <!-- Upward Growth Spark on Top Right -->
+        <path
+            android:fillColor="#89F5E7"
+            android:pathData="M65,40 L67,34 L73,32 L67,30 L65,24 L63,30 L57,32 L63,34 Z" />
+        <!-- Small Coin / Balance Dot -->
+        <path
+            android:fillColor="#00685F"
+            android:pathData="M63,60 A4,4 0 1,0 63,60.01 Z" />
+    </group>
+</vector>
